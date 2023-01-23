@@ -44,6 +44,6 @@ plt.show()
 ## Output
 ![Output](reg1.png)
 ![Output](reg2.png)
-![Output](LL.png)
+![Output](out.png)
 ## Result
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares.
